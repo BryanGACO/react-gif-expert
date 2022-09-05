@@ -13,15 +13,12 @@ export const GifExpertApp = () => {
 
   return (
     <>
-      {/* titulo */}
       <h1>GifExpertApp</h1>
-      {/* Input */}
-      {/* Listado de Gif */}
+
       <AddCategory
         //   setCategories={setCategories}
         onNewCategory={(value) => onAddCategory(value)}
       />
-      {/* <button onClick={onAddCategory}>Agregar</button> */}
 
       {categories.map(
         (category) => (
