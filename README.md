@@ -21,8 +21,7 @@
 
 - **Desarrollado con Vite:** Este proyecto utiliza Vite para ofrecer una experiencia de desarrollo rápida y eficiente. ¡Experimenta con la velocidad de Vite al clonar y ejecutar el proyecto!
 
-- **Publicación en GitHub Pages:** Para que todos puedan disfrutar de esta experiencia, hemos desplegado la aplicación en GitHub Pages. ¡Accede a la web en vivo [aquí](https://bryangaco.github.io/react-gif-expert/){:target="_blank"}!
-
+- **Publicación en GitHub Pages:** Para que todos puedan disfrutar de esta experiencia, hemos desplegado la aplicación en GitHub Pages. ¡Accede a la web en vivo <a href="https://bryangaco.github.io/react-gif-expert/" target="_blank">aquí</a>
 ## Cómo comenzar
 
 1. Clona este repositorio en tu máquina local.
